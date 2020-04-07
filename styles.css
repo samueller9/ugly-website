@@ -1,0 +1,67 @@
+.subheader {
+  font-family:monospace;
+  font-size: 40px;
+  color: pink;
+}
+
+.sub-header2 {
+  font-family:fantasy;
+  font-size: 50px;
+  color: green;
+  text-align: right;
+}
+
+.navbar {
+  color: blue;
+  size: 20px;
+}
+
+.btn-buy {
+  color: red;
+  justify-content: flex-start;
+
+}
+
+.yellow {
+  color: yellow;
+}
+
+.btn-sell {
+  color: purple;
+}
+
+.black {
+  color: black;
+}
+
+.bg {
+  background-color: yellow;
+
+}
+
+.bg-ugly {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.skinny {
+  height: 1000px;
+  width: 50px;
+}
+
+.fat {
+  height: 300px;
+  width: 900px;
+}
+
+.red {
+  color: red;
+
+}
+
+.green {
+  text-decoration-color:green;
+}
